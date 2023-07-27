@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1012474641465",
+    "firebase_url": "https://picttour-eff8d-default-rtdb.firebaseio.com",
+    "project_id": "picttour-eff8d",
+    "storage_bucket": "picttour-eff8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012474641465:android:f6cceae3cd5a11b0d321e8",
+        "android_client_info": {
+          "package_name": "com.blackgreen.picttour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012474641465-1cdgne9kht0v1mcrbhlb2jg01g97fnh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvhU7KpLnY9fl_xSEwS4nt0zz92w8nJQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012474641465-1cdgne9kht0v1mcrbhlb2jg01g97fnh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
